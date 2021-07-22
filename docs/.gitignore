@@ -1,0 +1,4 @@
+output
+*.rst
+!api/index.rst
+!api/library_root.rst

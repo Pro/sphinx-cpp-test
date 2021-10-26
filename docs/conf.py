@@ -17,6 +17,7 @@ extensions = [
 
 breathe_projects = { 'sphinx_test': '../doc_output/xml' }
 breathe_default_project = 'sphinx_test'
+breathe_debug_trace_directives = True
 exhale_args = {
     # These arguments are required
     "containmentFolder":     "./api",

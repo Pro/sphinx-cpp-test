@@ -9,5 +9,5 @@ Contents
    :maxdepth: 3
 
 
-   api/index.rst
+   api/library_root.rst
 

@@ -1,4 +1,3 @@
 sphinx==4.1.1
-#breathe==4.30.0
-git+git://github.com/jakobandersen/breathe@handle_parsing_errors
+breathe==4.31.0
 exhale==0.2.3
